@@ -5,6 +5,12 @@ Ver las instrucciones en mi blog https://ronbhack.com/como-hacer-un-keylogger-en
 
 Nota: para poder enviar el correo correctamente se debe crear una «contraseña de aplicación» en gmail, esta contraseña tiene 16 digitos
 
+1. Abre el Bloc de notas:
+
+◦ Ve al menú Inicio de Windows y busca «Bloc de notas».
+◦ Haz clic derecho sobre el Bloc de notas y selecciona «Ejecutar como administrador» para asegurarte de tener los permisos necesarios.
+
+2. Copia y Pega este script PowerShell: ronblogger.ps1 
 
 3. Guarda el archivo:
 
